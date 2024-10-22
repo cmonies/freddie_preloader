@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https://cdn.jsdelivr.net/gh/jasminder/freddie_preloader/flogo.png';
+svgImage.src = 'https://cdn.jsdelivr.net/gh/cmonies/freddie_preloader/flogo.png';
 svgImage.style.cssText = `
     max-width: 100px;
     max-height: 100px;
